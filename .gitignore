@@ -1,0 +1,11 @@
+data/
+Homo_sapiens.GRCh38.110.gtf
+Homo_sapiens.GRCh38.bed
+Homo_sapiens.GRCh38.dna.primary_assembly.fa
+Homo_sapiens.GRCh38.dna.primary_assembly.fa-enc.2.ngm
+Homo_sapiens.GRCh38.dna.primary_assembly.fa-ht-13-2.3.ngm
+Homo_sapiens.GRCh38.dna.primary_assembly.fa.fai
+Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+.ipynb_checkpoints/
+
+
