@@ -1,4 +1,6 @@
 data/
+trimmed_fastq/
+results_slam/
 Homo_sapiens.GRCh38.110.gtf
 Homo_sapiens.GRCh38.bed
 Homo_sapiens.GRCh38.dna.primary_assembly.fa

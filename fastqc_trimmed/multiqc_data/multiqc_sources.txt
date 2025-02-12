@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR25056153	/mnt/e/CRPC/fastqc_trimmed/SRR25056153.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056154	/mnt/e/CRPC/fastqc_trimmed/SRR25056154.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056155	/mnt/e/CRPC/fastqc_trimmed/SRR25056155.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056156	/mnt/e/CRPC/fastqc_trimmed/SRR25056156.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056157	/mnt/e/CRPC/fastqc_trimmed/SRR25056157.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056158	/mnt/e/CRPC/fastqc_trimmed/SRR25056158.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056159	/mnt/e/CRPC/fastqc_trimmed/SRR25056159.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056160	/mnt/e/CRPC/fastqc_trimmed/SRR25056160.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056161	/mnt/e/CRPC/fastqc_trimmed/SRR25056161.fastq.gz_trimmed_fastqc.zip
+FastQC	all_sections	SRR25056162	/mnt/e/CRPC/fastqc_trimmed/SRR25056162.fastq.gz_trimmed_fastqc.zip
